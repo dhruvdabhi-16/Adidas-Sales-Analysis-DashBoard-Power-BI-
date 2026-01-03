@@ -1,7 +1,7 @@
 # Adidas-Sales-Analysis-DashBoard-Power-BI-
 Background
 The Adidas Sales Analysis Dashboard was developed to provide a unified, data-driven view of Adidas’ performance across markets, products, and retailers. Using sales data from 2020–2021, the dashboard brings together key financial metrics, geographic performance, product trends, and channel effectiveness to equip business leaders with actionable insights. By centralising total sales, profit, margins, and volume into a single analytical interface, this dashboard helps decision-makers evaluate growth patterns, optimize distribution, strengthen product strategy, and improve profitability.
-Purpose and Business Impact
+# Purpose and Business Impact
 In a competitive retail landscape, understanding where revenue originates—and where performance lags—is critical for sustaining growth.
 
 The dashboard was designed to:
@@ -18,7 +18,7 @@ The dashboard was designed to:
 
 This project transforms raw sales data into a strategic decision-support system, empowering Adidas to enhance sales planning, inventory strategy, and market execution.
 
-Key Insights from the Dashboard
+# Key Insights from the Dashboard
 a. Business Performance Overview
 • Total Sales: $900M
 
@@ -95,7 +95,7 @@ Retailer revenue contribution indicates:
 
 These three dominate sales volume, while Kohl’s, Amazon, and Walmart contribute modestly. The distribution mix shows a balance between specialty sports retailers and mass-market channels, suggesting opportunities to strengthen partnerships with middle-performing retailers.
 
-Interactivity and Functionality
+# Interactivity and Functionality
 The dashboard includes dynamic slicers for:
 
 • Region
@@ -110,7 +110,7 @@ These filters allow leadership to:
 
 • Focus on specific time periods for sharper business insights
 
-Strategic Recommendations
+# Strategic Recommendations
 A. Strengthen Marketing in Underperforming States
 Use targeted campaigns to uplift sales in lighter-performing regions displayed on the heatmap.
 
@@ -135,5 +135,5 @@ E. Pricing & Margin Strategy
 F. Data-Driven Regional Expansion
 • The Northeast's strong share suggests replicating its sales strategies (inventory, marketing, pricing) in weaker regions.
 
-Conclusion
+# Conclusion
 The Adidas Sales Analysis Dashboard provides a comprehensive, data-rich view of sales performance across time, geography, product categories, and retailers. With $900M in total sales, strong footwear category dominance, and clear regional leaders, the insights highlight major opportunities for strategic expansion and optimisation. By leveraging peak-season trends, strengthening underperforming markets, refining the product mix, and enhancing retailer partnerships, Adidas can further elevate its market presence and profitability.
