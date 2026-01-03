@@ -1,4 +1,6 @@
 # Adidas-Sales-Analysis-DashBoard-Power-BI-
+<img width="1251" height="709" alt="DashBoard" src="https://github.com/user-attachments/assets/75b01937-4141-4146-bcea-6cfb144cfd2d" />
+
 Background
 The Adidas Sales Analysis Dashboard was developed to provide a unified, data-driven view of Adidas’ performance across markets, products, and retailers. Using sales data from 2020–2021, the dashboard brings together key financial metrics, geographic performance, product trends, and channel effectiveness to equip business leaders with actionable insights. By centralising total sales, profit, margins, and volume into a single analytical interface, this dashboard helps decision-makers evaluate growth patterns, optimize distribution, strengthen product strategy, and improve profitability.
 # Purpose and Business Impact
